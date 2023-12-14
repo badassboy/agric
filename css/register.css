@@ -1,0 +1,23 @@
+form {
+	margin-top: 15%;
+	height: 400px;
+	margin-left: 7%;
+}
+
+.form-group input[type="email"], input[type="password"],label{
+	width: 30%;
+	margin-top: 1%;
+}
+
+.form-group select {
+	width: 30%;
+}
+.btn-primary {
+	margin-top: 1%;
+	width: 30%;
+}
+
+header {
+	font-weight: bold;
+	font-size: 20px;
+}
