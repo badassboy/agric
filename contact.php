@@ -63,7 +63,7 @@
                                 <button class="w-100 btn form-control border-secondary py-3 bg-white text-primary " type="submit">Submit</button>
                             </form>
                         </div>
-                        <div class="col-lg-5">
+                       <!--  <div class="col-lg-5">
                             <div class="d-flex p-4 rounded mb-4 bg-white">
                                 <i class="fas fa-map-marker-alt fa-2x text-primary me-4"></i>
                                 <div>
@@ -85,7 +85,7 @@
                                     <p class="mb-2">0545804166</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>

@@ -11,7 +11,7 @@
                             <h4>Nico Hen's Produce</h4>
                             <p>We sell hen</p>
                             <div class="d-flex justify-content-between flex-lg-wrap">
-                                <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                <p class="text-dark fs-5 fw-bold mb-0">&#8373;4.99 / kg</p>
                                 <a href="shop-detail.php" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Read More</a>
                             </div>
                         </div>
@@ -25,7 +25,7 @@
                             <h4>Janet Vegetavles</h4>
                             <p>We sell all kinds of vegetables</p>
                             <div class="d-flex justify-content-between flex-lg-wrap">
-                                <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                <p class="text-dark fs-5 fw-bold mb-0">&#8373;4.99 / kg</p>
                                 <a href="shop-detail.php" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Read More</a>
                             </div>
                         </div>
@@ -39,7 +39,7 @@
                             <h4>Banana House</h4>
                             <p>Get wholesale and retail banana here</p>
                             <div class="d-flex justify-content-between flex-lg-wrap">
-                                <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
+                                <p class="text-dark fs-5 fw-bold mb-0">&#8373;7.99 / kg</p>
                                 <a href="shop-detail.php" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Read More</a>
                             </div>
                         </div>
@@ -53,7 +53,7 @@
                             <h4>Bell Pepper</h4>
                             <p>large quantities for sale</p>
                             <div class="d-flex justify-content-between flex-lg-wrap">
-                                <p class="text-dark fs-5 fw-bold mb-0">$7.99 / kg</p>
+                                <p class="text-dark fs-5 fw-bold mb-0">&#8373;7.99 / kg</p>
                                 <a href="shop-detail.php" class="btn border border-secondary rounded-pill px-3 text-primary"><i class="fa fa-shopping-bag me-2 text-primary"></i>Read More</a>
                             </div>
                         </div>

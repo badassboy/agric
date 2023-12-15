@@ -55,7 +55,7 @@
                            
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
+                   <!--  <div class="col-lg-3 col-md-6">
                         <div class="footer-item">
                             <h4 class="text-light mb-3">Contact</h4>
                             <p>Address: Kotobaabi, Accra Ghana</p>
@@ -64,7 +64,7 @@
                             <p>Payment Accepted</p>
                             <img src="img/payment.png" class="img-fluid" alt="">
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>

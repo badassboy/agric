@@ -77,7 +77,7 @@
                             </div>
                             <div class="featurs-content text-center">
                                 <h5>Free Shipping</h5>
-                                <p class="mb-0">Free on order over $300</p>
+                                <p class="mb-0">Free on order over &#8373;300</p>
                             </div>
                         </div>
                     </div>
@@ -197,7 +197,7 @@
                             <div class="d-flex align-items-center justify-content-center bg-white rounded-circle position-absolute" style="width: 140px; height: 140px; top: 0; left: 0;">
                                 <h1 style="font-size: 100px;">1</h1>
                                 <div class="d-flex flex-column">
-                                    <span class="h2 mb-0">50$</span>
+                                    <span class="h2 mb-0">&#8373;600</span>
                                     <span class="h4 text-muted mb-0">kg</span>
                                 </div>
                             </div>
